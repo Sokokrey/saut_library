@@ -11,6 +11,7 @@ import { MatPaginator, MatTableDataSource, MatSnackBar } from '@angular/material
   providers: [BookService]
 })
 
+<<<<<<< HEAD
 //weeeena 
 
 //locoooo 
@@ -19,6 +20,16 @@ import { MatPaginator, MatTableDataSource, MatSnackBar } from '@angular/material
 
 
 //asdads
+=======
+
+// esaaaaaaaaa
+
+
+//  asdasd
+
+
+//dasd
+>>>>>>> database_changes
 
 export class BooksComponent implements OnInit {
   displayedColumns: string[] = ['position','name', 'author', 'year', 'action'];
